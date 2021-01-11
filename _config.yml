@@ -16,11 +16,11 @@
 lang: zh-CN
 title: LiangJiekai's Own Site
 email:
-description:"Gitee"
-baseurl: "liangjiekai"# the optional subpath of your site, e.g. "/blog"
-url: http://liangjiekai.gitee.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description:"Liangjiekai's Own Site"
+baseurl: "/liangjiekai" # the optional subpath of your site, e.g. "/blog"
+url: "http://liangjiekai.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:LiangJiekai
+  name: "LiangJiekai"
   twitter:
   picture:
 twitter_username:
