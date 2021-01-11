@@ -16,15 +16,15 @@
 lang: zh-CN
 title: LiangJiekai's Own Site
 email:
-description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description:"Gitee"
+baseurl: "liangjiekai"# the optional subpath of your site, e.g. "/blog"
+url: http://liangjiekai.gitee.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name:LiangJiekai
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username:LiangJiekai
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: # jekyll-theme-basically-basic
+#theme:  jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
