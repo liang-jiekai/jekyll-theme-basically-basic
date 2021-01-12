@@ -35,4 +35,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - cv.md
+  - graphicdesign.md
+  - websitedesign.md
+  - svg.md
+  - studynotes.md
