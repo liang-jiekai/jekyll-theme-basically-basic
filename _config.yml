@@ -24,7 +24,7 @@ author:
   twitter:
   picture:
 twitter_username:
-github_username:LiangJiekai
+github_username: LiangJiekai
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
@@ -37,7 +37,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-basically-basic
+theme: # jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
