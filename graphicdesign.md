@@ -1,1 +1,4 @@
-
+title: 平面设计
+layout: category
+permalink:/categories/平面设计/
+taxonomy:平面设计
