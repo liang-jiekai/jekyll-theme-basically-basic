@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pages
 title: SVG衣服
 excerpt_separator: "<!--more-->"
 date: 2021-01-16
