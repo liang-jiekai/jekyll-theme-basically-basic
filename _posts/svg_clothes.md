@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - SVG笔记
   tags:
-  -svg
+  - SVG
 ---
 <!--more-->
 # 运动的衣服
