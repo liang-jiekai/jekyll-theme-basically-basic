@@ -1,11 +1,13 @@
 ---
+layout: page
 title: "由静化动"
 excerpt_separator: "<!--more-->"
 categories:
   - SVG笔记
-  tags:
-  - SVG
 ---
+
+衣服变换
+
 <!--more-->
 # 运动的衣服
 ## 不动的图像
