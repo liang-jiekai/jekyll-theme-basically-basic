@@ -1,9 +1,10 @@
 ---
 title: "由静化动"
-layout: page
 excerpt_separator: "<!--more-->"
-  tags:
+categories:
   - SVG笔记
+  tags:
+  -svg
 ---
 <!--more-->
 # 运动的衣服
