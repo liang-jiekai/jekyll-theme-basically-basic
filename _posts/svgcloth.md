@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "由静化动"
+title: SVG有趣的例子
 excerpt_separator: "<!--more-->"
-image:"/assets/image/svgcloth.jpeg"
+date: 2021-01-16
 categories:
-  - SVG笔记
----
+     - SVG制作
+tags:
+  - svg
 
-衣服变换
+---
+SVG+CSS3动画听说很配噢~~
 
 <!--more-->
 # 运动的衣服

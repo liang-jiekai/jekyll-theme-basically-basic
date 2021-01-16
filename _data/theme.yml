@@ -34,9 +34,10 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - 关于我.md
-  - 平面设计.md
+  - about.md
   - 网站设计.md
-  - SVG笔记.md
-  - 学习笔记.md
+  - 平面设计.md
+  - SVG制作.md
+  - 课堂笔记.md
+  - cv.md
 
