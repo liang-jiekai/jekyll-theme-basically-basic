@@ -2,6 +2,7 @@
 layout: page
 title: "由静化动"
 excerpt_separator: "<!--more-->"
+image:"/assets/image/svgcloth.jpeg"
 categories:
   - SVG笔记
 ---
